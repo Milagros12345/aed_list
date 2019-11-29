@@ -1,0 +1,2 @@
+﻿  listas_enlazadas.cpp
+D:\semestre4to\aed\listas_enlazadas\listas_enlazadas.cpp(27): error C4700:  se utilizó la variable local 'p' sin inicializar
